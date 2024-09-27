@@ -4,7 +4,7 @@
 This repository is the official implementation of [Temporal and cross-modal attention for
 audio-visual zero-shot learning](https://arxiv.org/abs/2207.09966).
 
-<img src="/img/SACMA.jpeg" width="700" height="400">
+<img src="/img/introduction.jpg" width="700" height="400">
 
 ## Requirements
 Install all required dependencies into a new virtual environment via conda.
