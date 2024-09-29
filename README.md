@@ -1,7 +1,8 @@
  # Self-attention and Cross-modal Attention for Audio-visual Zero-shot Learning
 
-<img src="/img/SACMA.jpeg" width="700" height="400">
-
+<p align="center">
+  <img src="img/SACMA.jpeg"alt="" align=center />
+</p>
 ## Requirements
 Install all required dependencies into a new virtual environment via conda.
 ```shell
