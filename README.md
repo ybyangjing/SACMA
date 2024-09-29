@@ -1,13 +1,13 @@
  # Self-attention and Cross-modal Attention for Audio-visual Zero-shot Learning
 
 <p align="center">
-  <img src="img/introduction.jpeg"alt="" align=center />
+  <img src="img/introduction.jpg"alt="" align=center />
 </p>
 
 ## Requirements
 Install all required dependencies into a new virtual environment via conda.
 
-```conda env create -f SACMA.yml
+``` shell conda env create -f SACMA.yml
 ```
 
 ## Datasets 
