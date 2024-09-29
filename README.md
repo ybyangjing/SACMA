@@ -6,8 +6,8 @@
 
 ## Requirements
 Install all required dependencies into a new virtual environment via conda.
-
-```conda env create -f SACMA.yml
+```shell
+conda env create -f TCAF.yml
 ```
 
 ## Datasets 
