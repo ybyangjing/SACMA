@@ -44,4 +44,8 @@ arguments:
 --root_dir points to the location where the dataset is stored
 ```
 
+# Model weights
+The trained models can be downloaded from [here](https://drive.google.com/drive/folders/1TMQ3k-fvq8KL6EISmtRJewM-UceKu-VI).
+
+
 **The complete code will be uploaded after the paper is accepted.**
