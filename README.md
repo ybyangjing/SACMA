@@ -2,7 +2,7 @@
 
 This is the official PyTorch code for the paper:
 
-** Self-attention and Cross-modal Attention for Audio-visual Zero-shot Learning**
+**Self-attention and Cross-modal Attention for Audio-visual Zero-shot Learning**
 
 ***Applied Soft Computing***
 
