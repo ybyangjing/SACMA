@@ -1,5 +1,13 @@
  # Self-attention and Cross-modal Attention for Audio-visual Zero-shot Learning
 
+This is the official PyTorch code for the paper:
+
+** Self-attention and Cross-modal Attention for Audio-visual Zero-shot Learning**
+
+***Applied Soft Computing***
+
+**Xiaoyng Li**, **Jing Yang***, **Yuankai Wu**, **Shaobo Li**,  **Xiaoli Ruan and Zhidong Su**.
+
 <p align="center">
   <img src="img/introduction.jpg"alt="" align=center />
 </p>
@@ -49,3 +57,5 @@ The trained models can be downloaded from [here](https://drive.google.com/drive/
 
 
 **The complete code will be uploaded after the paper is accepted.**
+
+**If you have any questions you can contact us : gs.xiaoyongli22@gzu.edu.cn or jyang23@gzu.edu.cn**
