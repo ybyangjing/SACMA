@@ -6,7 +6,7 @@ This is the official PyTorch code for the paper:
 
 ***Neural Networks***
 
-**Xiaoyng Li**, **Jing Yang***, **Yuankai Wu**, **Yuling Cheng**,  **Xiaoli Ruan and Zhidong Su**.
+**Xiaoyng Li**, **Jing Yang***, **Yuankai Wu**, **Yuling Cheng**,  **Xiaoli Ruan**,  **Zhidong Su**，**Chengjiang Li**.
 
 <p align="center">
   <img src="img/introduction.jpg"alt="" align=center />
