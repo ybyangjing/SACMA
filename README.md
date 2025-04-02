@@ -4,7 +4,7 @@ This is the official PyTorch code for the paper:
 
 **Self-attention and Cross-modal Attention for Audio-visual Zero-shot Learning**
 
-***Neural Networks***
+***Information Fusion***
 
 **Xiaoyng Li**, **Jing Yang***, **Yuankai Wu**, **Yuling Cheng**,  **Xiaoli Ruan**,  **Zhidong Su**，**Chengjiang Li**.
 
