@@ -52,7 +52,4 @@ arguments:
 --root_dir points to the location where the dataset is stored
 ```
 
-
-**The complete code will be uploaded after the paper is accepted.**
-
 **If you have any questions you can contact us :  jyang23@gzu.edu.cn or gs.xiaoyongli22@gzu.edu.cn**
