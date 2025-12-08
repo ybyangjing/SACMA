@@ -6,7 +6,7 @@ This is the official PyTorch code for the paper:
 
 ***Information Fusion***
 
-**Xiaoyng Li**, **Jing Yang***, **Yuankai Wu**, **Yuling Cheng**,  **Xiaoli Ruan**,  **Zhidong Su**，**Chengjiang Li**.
+**Jing Yang**, **Xiaoyng Li***, **Yuankai Wu**, **Yuling Cheng**,  **Xiaoli Ruan**,  **Zhidong Su**，**Chengjiang Li**, **Qing Hou***.
 
 <p align="center">
   <img src="img/introduction.jpg"alt="" align=center />
@@ -15,7 +15,7 @@ This is the official PyTorch code for the paper:
 ## Requirements
 Install all required dependencies into a new virtual environment via conda.
 ```shell
-conda env create -f SACMA.yml
+conda env create -f TCAF.yml
 ```
 
 ## Datasets 
@@ -52,10 +52,7 @@ arguments:
 --root_dir points to the location where the dataset is stored
 ```
 
-# Model weights
-The trained models can be downloaded from [here](https://drive.google.com/drive/folders/1TMQ3k-fvq8KL6EISmtRJewM-UceKu-VI).
-
 
 **The complete code will be uploaded after the paper is accepted.**
 
-**If you have any questions you can contact us : gs.xiaoyongli22@gzu.edu.cn or jyang23@gzu.edu.cn**
+**If you have any questions you can contact us :  jyang23@gzu.edu.cn or gs.xiaoyongli22@gzu.edu.cn**
